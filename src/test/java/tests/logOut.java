@@ -1,7 +1,7 @@
 package tests;
 
-public class login {
+public class logOut {
     public static void main(String[] args) {
-        System.out.println("Merhaba Dünya");
+        System.out.println("Merhaba Dünya2");
     }
 }
