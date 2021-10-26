@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="d7fe4cae-0368-4b75-b23f-ff8f5b4f964d" name="Default Changelist" comment="" />
+    <list default="true" id="d7fe4cae-0368-4b75-b23f-ff8f5b4f964d" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -32,6 +34,7 @@
   </component>
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.0" />
@@ -65,9 +68,9 @@
       <screen x="0" y="0" width="1280" height="680" />
     </state>
     <state x="0" y="6" key="#Project_Structure/0.0.1280.680@0.0.1280.680" timestamp="1635263428025" />
-    <state x="93" y="93" width="1095" height="495" key="DiffContextDialog" timestamp="1635266768513">
+    <state x="73" y="47" width="1095" height="495" key="DiffContextDialog" timestamp="1635267067483">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state x="93" y="93" width="1095" height="495" key="DiffContextDialog/0.0.1280.680@0.0.1280.680" timestamp="1635266768513" />
+    <state x="73" y="47" width="1095" height="495" key="DiffContextDialog/0.0.1280.680@0.0.1280.680" timestamp="1635267067483" />
   </component>
 </project>
