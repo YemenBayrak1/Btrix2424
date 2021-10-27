@@ -7,6 +7,13 @@ public class task {
   public static void hi(){
     System.out.println("Hello Word");
   }
+  public String hello(){
+  return "something from github";
+    }
+  
+  
+  
+
 }
 
 
