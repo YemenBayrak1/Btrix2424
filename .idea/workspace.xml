@@ -57,7 +57,9 @@
       <map>
         <entry key="MAIN">
           <value>
-            <State />
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
           </value>
         </entry>
       </map>
@@ -72,5 +74,9 @@
       <screen x="0" y="0" width="1280" height="680" />
     </state>
     <state x="73" y="47" width="1095" height="495" key="DiffContextDialog/0.0.1280.680@0.0.1280.680" timestamp="1635267067483" />
+    <state x="51" y="185" key="com.intellij.ide.util.TipDialog" timestamp="1635326233956">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="51" y="185" key="com.intellij.ide.util.TipDialog/0.0.1280.680@0.0.1280.680" timestamp="1635326233956" />
   </component>
 </project>
